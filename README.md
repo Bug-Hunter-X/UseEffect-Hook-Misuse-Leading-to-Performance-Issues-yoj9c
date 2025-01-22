@@ -1,0 +1,2 @@
+# React useEffect Hook Misuse
+This repository demonstrates a common mistake when using the `useEffect` hook in React, which can lead to performance issues and unexpected behavior. The problem lies in the dependency array of the useEffect hook.
